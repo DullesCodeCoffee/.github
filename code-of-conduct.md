@@ -6,6 +6,6 @@ Dulles Code & Coffee is committed to providing an experience that is safe and fr
 
 Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the admins.
 
-If you are being harassed or offended by a member of the community, notice that someone else is being harassed or offended, or have any other concerns, please contact [our organizers](https://github.com/orgs/DullesCodeCoffee/teams/organizers/members), and we will respond as quickly as we can.
+If you are being harassed or offended by a member of the community, notice that someone else is being harassed or offended, or have any other concerns, please contact [our organizers](https://www.meetup.com/dulles-code-coffee/members/?op=leaders), and we will respond as quickly as we can.
 
 Blatantly copied from https://github.com/NoVACodeCoffee and http://dctech.chat/code_of_conduct.html whom we love!
