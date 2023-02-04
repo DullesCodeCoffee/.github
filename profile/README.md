@@ -4,3 +4,5 @@ Find us online at:
 
 * https://www.meetup.com/dulles-code-coffee/
 * http://www.dctechslack.com/ in [#dullescodecoffee](https://dctech.slack.com/archives/C04N2TP7XU2)
+
+All participants are required to conform to our [code of conduct](/code-of-conduct.md).
